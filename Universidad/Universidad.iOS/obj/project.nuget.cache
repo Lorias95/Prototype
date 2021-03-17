@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lOKdGiXlR4uWw1ZTIMRBjtCtQoKg9mxPnLk54PwzE5lc45V/RzCi1NR7u+IVHc3fQQy8imPxM/lDwGrGwSG1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erick Parra\\Desktop\\Progra IV\\Universidad\\Universidad\\Universidad.iOS\\Universidad.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\Erick Parra\\.nuget\\packages\\xamarin.forms\\3.6.0.264807\\xamarin.forms.3.6.0.264807.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Universidad.Cursos.EditarMatricula">
+    <ContentPage.Content>
+       
+            <Grid Margin="10,20,10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="1" 
+                         Grid.ColumnSpan="2">
+                    <Entry
+                       Placeholder="Nombre Estudiante"
+                       Text="{Binding NombreEstudiante}" 
+                       TextColor="Black" FontAttributes="Bold"/>
+                    <Entry Placeholder="Promedio Final"
+                           Text="{Binding PromedioFinal}" TextColor="Black" FontAttributes="Bold"/>
+                    <Button x:Name="btnEditar" 
+                            Text="Editar" 
+                            Clicked="BtnEditar_Clicked" 
+                            BackgroundColor="Blue" 
+                            TextColor="White" 
+                            FontSize="18" 
+                            FontFamily="Bold"/>
+                    <Button x:Name="btnEliminar" 
+                            Text="Eliminar" 
+                            Clicked="BtnEliminar_Clicked" 
+                            FontSize="18" 
+                            BackgroundColor="Blue" 
+                            TextColor="White" 
+                            FontFamily="Bold"/>
+                </StackLayout>
+            </Grid>
+       
+    </ContentPage.Content>
+</ContentPage>

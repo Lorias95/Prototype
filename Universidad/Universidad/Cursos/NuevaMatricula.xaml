@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Universidad.Cursos.NuevaMatricula">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="ListaMatricula" Text="Ver Matricula" Clicked="ListaMatricula_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="pCursos" Title="Seleccionar Curso" SelectedIndexChanged="PCursos_SelectedIndexChanged"
+                   ItemDisplayBinding="{Binding Nombre}" />
+            <Entry x:Name="txtNombreEst" Text="{Binding NombreEst}" Placeholder="Nombre estudiante"/>
+            <Entry x:Name="txtPromedioFinal" Text="{Binding PromedioFinal}" Placeholder="Promedio Final" />
+            <Button x:Name="Agregar" Text="Agregar" Clicked="AgregarMatricula_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

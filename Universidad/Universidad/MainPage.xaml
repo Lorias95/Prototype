@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Universidad"
+             x:Class="Universidad.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="ToolbarItemAgregar" Text="Agregar" Clicked="ToolbarItemAgregar_Clicked"/>
+        <ToolbarItem x:Name="ToolbarItemAgregarMatricula" Text="Matricula" Clicked="ToolbarItemAgregarMatricula_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ListView x:Name="lstUniversidad">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell Text="{Binding Nombre}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\bin\Debug\netstandard2.0\Universidad.deps.json
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\bin\Debug\netstandard2.0\Universidad.dll
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\bin\Debug\netstandard2.0\Universidad.pdb
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Cursos\ListaMatricula.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Cursos\NuevaMatricula.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Cursos\NuevoCurso.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.AssemblyInfo.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.dll
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.pdb
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Universidad.csprojAssemblyReference.cache
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Cursos\ListaCursoIndividual.xaml.g.cs
+C:\Users\arlen\source\repos\Universidad\Universidad\Universidad\obj\Debug\netstandard2.0\Cursos\EditarMatricula.xaml.g.cs
